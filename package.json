@@ -1,0 +1,14 @@
+{
+  "name": "ze-delivery-challenge-api",
+  "version": "1.0.0",
+  "description": "Ze Delivery Front-End Challenge API",
+  "main": "src/server.js",
+  "author": "Giuseppe Setem <giuseppe7d@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
